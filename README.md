@@ -7,3 +7,4 @@ I am a motivated Computer Science student with a strong interest in technology a
 * Python
 * Java
 * 💻 HTML, CSS
+* Prompt Engineering
