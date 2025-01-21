@@ -22,9 +22,9 @@ I am a motivated Computer Science student with a strong interest in technology a
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackFist707&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackFist707&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackFist707&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faisal-khrisan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisal-khrisan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-khrisan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -41,8 +41,7 @@ I am a motivated Computer Science student with a strong interest in technology a
 - 🌟 **Visitor Counter**:  
   ![Visitor Count](https://komarev.com/ghpvc/?username=BlackFist707&color=blue&style=flat-square)
 
-- 🎖️ **Trophies**:  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=BlackFist707&theme=radical&margin-w=15)
+
 
 ---
 
