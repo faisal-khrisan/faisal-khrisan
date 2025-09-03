@@ -4,13 +4,17 @@
 I am a motivated Computer Science student with a strong interest in technology and innovation. My academic journey has equipped me with solid skills in programming and problem-solving. I enjoy working on projects that challenge me to think critically and lead to practical, impactful solutions. I am committed to continuous learning and am eager to contribute to the tech industry with my growing expertise and passion for new technologies.
 
 ## Skills and Experience
-* Python backend ( Flask , Django )
-* Pyhton Data science ( Numpy , pandas , Matplotlib, seaborn, Siketlearn )
+* Python backend ( Flask , Django, FastAPI )
+* Pyhton Data science ( Numpy , pandas , Matplotlib, seaborn, Siketlearn,TensorFlow)
 * Web scraping  python ( selenium , beautifulsoup )
 * Java
-* PHP
+* JavaScript ( React, Vue )
+* PHP 
 * MySQl
-* 💻 HTML, CSS ( bootstrap)
+* SQL Alchemy
+* PostgresSQL
+* Git
+* 💻 HTML, CSS ( bootstrap, CSS Tailwind)
 
 
 ### 🚀 **Tools & Technologies**
