@@ -66,19 +66,21 @@ I am a motivated Computer Science student with a strong interest in technology a
 
 ### **GitHub Stats**
 
+
 <p align="center">
   <a href="https://github.com/faisal-khrisan">
-    <img src="https://github-readme-stats.vercel.app/api?username=faisal-khrisan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=faisal-khrisan&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/faisal-khrisan">
-    <img src="https://streak-stats.demolab.com?user=faisal-khrisan&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=faisal-khrisan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/faisal-khrisan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-khrisan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faisal-khrisan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
