@@ -102,4 +102,4 @@ I am a motivated Computer Science student with a strong interest in technology a
 
 ---
 
-Let's build something amazing together!
+Let's build something amazing together
