@@ -1,4 +1,4 @@
-<img width="1400" height="350" alt="FAISAL KHRISAN" src="https://github.com/user-attachments/assets/19582f08-3a9a-4fa9-83f8-d6c70e57f9ee" />
+<img width="1400" height="350" alt="FAISAL KHRISAN (1)" src="https://github.com/user-attachments/assets/ccf44962-d306-4775-b4bb-070a182fecc0" />
 
 # Faisal Khrisan
 
@@ -67,10 +67,21 @@ I am a motivated Computer Science student with a strong interest in technology a
 ### **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faisal-Khrisan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faisal-Khrisan&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisal-Khrisan&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/faisal-khrisan">
+    <img src="https://github-readme-stats.vercel.app/api?username=faisal-khrisan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
 </p>
+<p align="center">
+  <a href="https://github.com/faisal-khrisan">
+    <img src="https://streak-stats.demolab.com?user=faisal-khrisan&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/faisal-khrisan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-khrisan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
 
 ---
 
