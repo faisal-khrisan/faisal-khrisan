@@ -124,9 +124,9 @@ I am a motivated Computer Science student with a strong interest in technology a
 ### **Connect With Me**
 
 <p align="center">
-  <a href="https://faisal-khrisan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/faisalkhrisan-491513339"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:faisalkhrisan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=faisal-khrisan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisal-khrisan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-khrisan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
