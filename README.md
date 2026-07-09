@@ -2,7 +2,8 @@
 
 # Faisal Khrisan
 
-I am a motivated Computer Science student with a strong interest in technology and innovation. My academic journey has equipped me with solid skills in programming and problem-solving. I enjoy working on projects that challenge me to think critically and lead to practical, impactful solutions. I am committed to continuous learning and am eager to contribute to the tech industry with my growing expertise and passion for new technologies.
+AI & Software Engineer with practical experience building full-stack applications, MCP Servers, designing automations
+workflows, Agent Skills & prompts and building data pipelines.
 
 <p align="center">
   <a href="https://faisal-khrisan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0ea5e9?style=for-the-badge" alt="Portfolio" /></a>
